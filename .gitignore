@@ -17,4 +17,3 @@ tasks/
 .github/
 plan-autonomousWebsiteTestingAgent.prompt.md
 uv.lock
-config.yaml
